@@ -1,0 +1,12 @@
+            DP
+1. Longest common substring............................Done
+2. Longest common Palindrome substring.................Done
+3. Count all palindrome substring......................Done
+4. count all palindrome distinct substring.............Done
+
+
+            Sliding Window
+6. Find longest sub-string length with K distinct characters
+7. Longest sub-string length with no repeating characters
+8. Find all permutation of pattern present int the string
+9. Smallest Sub-string which contains all the characters of given Pattern
